@@ -1,0 +1,62 @@
+body { 
+    background-color: #DEDEDE;
+}
+
+.title{
+    margin: 1em 0;
+}
+
+.card{
+    width: 50%;
+    margin-left: 25%;
+}
+
+form{
+    padding: 0 0 2em 0;
+    margin: 1em 2em;
+}
+
+form  span{
+    color: red;
+}
+
+.form-container {
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-check-label i{
+    size: 12px 12px;
+    margin: 0 .5em 0 0;
+}
+
+footer {
+    margin: 2em 0;
+}
